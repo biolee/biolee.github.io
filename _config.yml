@@ -1,5 +1,5 @@
 title:            BIOLEE
-description:      "Medicine & Programming is fun"
+description:      "Medicine & Coding is fun"
 logo:             roundhead.png
 #disqus_shortname: hmfaysal
 #share:            true
@@ -10,11 +10,11 @@ logo:             roundhead.png
 
 # Owner/author information
 owner:
-  name:           li yanan
-  avatar:         hmfaysal.jpg
-  email:          you@email.com
+  name:           biolee
+  avatar:         roundhead.png
+  email:          liyananfamily@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Medicine & Programming
+  description:    Medicine & Coding
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        hmfaysal
   #facebook:       hmfaysal
@@ -41,7 +41,7 @@ links:
   - title: Categories
     url: /categories
   - title: About
-    url: /hossain-mohd-faysal
+    url: /biolee
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
