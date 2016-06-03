@@ -16,7 +16,8 @@ I am an Bachelor of Medicine at the [College of Basic and Forensic Medicine](htt
 
 Before working in iCarbonX, i worked in BGI for a time.
 
-In iCarbonX, my project list is
+In iCarbonX, my project list is:
+
 -  Web Scrapy
 -  Data Analysis
 -  Medical Terminology Analysis
