@@ -7,8 +7,11 @@ image:
   feature: feifei2.jpeg
 ---
 My name is **li ya'nan**, and this is my personal blog
+
 I am an Bachelor of Medicine at the [College of Basic and Forensic Medicine](http://jcfy.scu.edu.cn/) at [West China Medical Center](http://wcums.scu.edu.cn/about_en.asp)
-Before working in iCarbonX, i worked in BGI for a time.
+
+Before working in iCarbonX, i worked in BGI for a time
+
 I believe
 
 
