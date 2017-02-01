@@ -16,14 +16,6 @@ I am an Bachelor of Medicine at the [College of Basic and Forensic Medicine](htt
 
 Before working in iCarbonX, i worked in BGI for a time.
 
-In iCarbonX, my project list is:
-
--  Web Scrapy
--  Data Analysis
--  Medical Terminology Analysis
--  Medical Imaging Analysis
-
-
 I believe
 
 > When machines can see, doctors and nurses will have extra pairs of tireless eyes to help them to diagnose and take care of patients.  [Fei-Fei Li, Ph.D.](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-cn)
