@@ -20,4 +20,4 @@ I believe
 
 > When machines can see, doctors and nurses will have extra pairs of tireless eyes to help them to diagnose and take care of patients.  [Fei-Fei Li, Ph.D.](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-cn)
 
-<h2 class="text-center">Extra pairs of tireless eyes is coming</h2>
+<h2 class="text-center">Extra pairs of tireless eyes</h2>
